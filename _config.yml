@@ -1,6 +1,6 @@
 title: Miki Lab
 author: Miki Ishihara
-email: your-email@domain.com
+email: ishiharamiki9812@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The purpose of this website is to share the personal exoerices of how to learn IT without any IT or even other STEM degrees
 
@@ -10,3 +10,7 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---
+title: "Welcome to my first blog!"
+date: 2022-Jan-07
+---
